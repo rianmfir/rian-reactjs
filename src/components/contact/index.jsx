@@ -1,13 +1,13 @@
 import React from "react";
-import '../index.css'
+import '../../index.css'
 
 const Contact = () => {
     return (
-        <section class="bg-Primary text-white py-5" id="contact">
+        <section className="bg-Primary text-white py-5" id="contact">
             <div className="container">
                 <div className="row">
                     <div>
-                        <h3 className="text-center">Contact Me</h3>
+                        <h3 className="text-center fw-bold">Contact Me</h3>
                     </div>
                     <div className="row justify-content-center">
                         <div className="col-md-6">

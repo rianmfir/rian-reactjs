@@ -4,6 +4,7 @@ import Hero from "./hero";
 import Skills from "./skills";
 import Contact from "./contact";
 import Footer from './footer';
+import Projects from "./projects";
 
 
 
@@ -14,6 +15,7 @@ export default class Components extends React.Component {
             <div>
                 <Navbar />
                 <Hero />
+                <Projects />
                 <Skills />
                 <Contact />
                 <Footer />
