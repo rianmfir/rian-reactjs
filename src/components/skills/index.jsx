@@ -1,6 +1,6 @@
 import React from "react";
 import { CSS, HTML, Java, Javascript, MySQL, NodeJS, ReactJS } from "../../assets";
-import '../index.css'
+import '../../index.css'
 
 const Skills = () => {
 
